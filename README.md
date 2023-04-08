@@ -4,7 +4,14 @@ These are the lecture notes (Jupyter Notebooks) for an online Data Science for D
 
 # How To Read
 
+##  GitHub
+
 You can read them online at GitHub. Click on an individual notebook, and GitHub will render it in HTML for your reading. 
+
+## Binder
+
+You can read content of this book online at Binder website [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/serpwings/data-science-for-digital-marketers/HEAD)
+
 
 # How to Run
 
